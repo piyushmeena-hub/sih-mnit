@@ -1,0 +1,17 @@
+# ROS 2 / Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+install/
+build/
+log/
+
+# Node / frontend
+node_modules/
+dist/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
